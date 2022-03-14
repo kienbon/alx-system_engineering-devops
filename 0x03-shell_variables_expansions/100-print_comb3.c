@@ -1,4 +1,3 @@
-Kafu, [3/14/22 2:05 AM]
 #include <stdio.h>
 #include <stdlib.h>
 /**
@@ -21,7 +20,6 @@ int main(void)
 {
   int c;
   int d = 0;
-
   while (d < 10)
   {
     c = 0;
